@@ -29,7 +29,7 @@
 
 <script setup lang="ts">
 import { ref, computed } from "vue"
-import Navbar from "../components/Navbar.vue"
+import Navbar from "../components/AppNavbar.vue"
 import { shortcuts } from "../data/shortcuts"
 
 const search = ref("")
