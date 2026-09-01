@@ -1,8 +1,8 @@
 <template>
   <nav class="flex items-center justify-between px-6 py-3 bg-black text-white border-b border-white">
 
-    <div class="text-[40px] font-bold font-mono">
-      Shortcuts
+    <div class="text-[30px] font-bold font-mono">
+      Personal Shortcuts
     </div>
 
     <div class="flex-1 flex justify-center">
