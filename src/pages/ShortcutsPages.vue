@@ -8,7 +8,6 @@
         v-for="(shortcut, index) in filteredShortcuts"
         :key="index"
         :href="shortcut.url"
-        target="_blank"
         class="bg-black w-[450px] text-center hover:bg-zinc-800 transition rounded-xl overflow-hidden border border-zinc-800"
       >
 
